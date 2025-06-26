@@ -11,7 +11,7 @@ cd contacts-api
 
 
 ## Prerequisites
-
+- Unix
 - Docker
 - Docker Compose
 
