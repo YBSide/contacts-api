@@ -32,8 +32,6 @@ The API will be available at `http://localhost:8000`.
 ### Using Docker Compose
 
 ```bash
-docker-compose down
-
 docker-compose up --build -d
 ```
 
